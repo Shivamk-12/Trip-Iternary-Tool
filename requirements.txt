@@ -1,0 +1,10 @@
+langchain
+langchain-huggingface
+numpy
+pandas
+nltk
+streamlit
+python-dotenv
+transformers
+torch
+scikit-learn
